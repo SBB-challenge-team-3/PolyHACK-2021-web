@@ -1,10 +1,10 @@
 # TODO LIST
 
-[] Data Analysis Advanced search
+[] Data Analysis Advanced search: Enrico
     [] Biking
     [] Hiking
-[] Geo-occupancy for promoting discount
-[] Wireframing of the app on Figma
+[] Geo-occupancy for promoting discount: Felix
+[] Wireframing of the app on Figma: Nicolas
     [] Discover: Inspirations of POI
         [] Search list
         [] Maps
@@ -18,3 +18,4 @@
         [] Past data showed on map
 [] Figma to HTML/CSS
 [] Make the app interactive
+[] Set up Website: Samuel
